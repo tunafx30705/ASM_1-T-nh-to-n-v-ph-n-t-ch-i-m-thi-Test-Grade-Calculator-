@@ -1,7 +1,7 @@
 
 # Test Grade Calculator
 
-Đây là dự án này cung cấp tập lệnh Python để chấm điểm bài kiểm tra của học sinh dựa trên câu trả lời của họ và đáp án được xác định trước. Tập lệnh đọc dữ liệu đầu vào từ một tệp văn bản chứa câu trả lời của học sinh, xác thực dữ liệu, tính điểm và tạo báo cáo.
+Đây là dự án cung cấp tập lệnh Python để chấm điểm bài kiểm tra của học sinh dựa trên câu trả lời của họ và đáp án được xác định trước. Tập lệnh đọc dữ liệu đầu vào từ một tệp văn bản chứa câu trả lời của học sinh, xác thực dữ liệu, tính điểm và tạo báo cáo.
 
 
 ## Features
