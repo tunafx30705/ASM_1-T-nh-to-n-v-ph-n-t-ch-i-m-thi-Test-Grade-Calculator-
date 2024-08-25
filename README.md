@@ -35,14 +35,14 @@
 
 Để sử dụng tập lệnh để chấm điểm một lớp:
 1. **Chuẩn bị tập tin đầu vào**: 
-- Tập lệnh nhắc nhập tệp lớp (ví dụ: `class1` cho `class1.txt`) chứa ID sinh viên và câu trả lời của họ.
-- File phải có ID của mỗi học sinh bắt đầu bằng "N", theo sau là 8 chữ số và tệp chứa chính xác 26 giá trị trên mỗi dòng (bao gồm cả ID học sinh). Dữ liệu đầu vào phải giống như Ví dụ dưới đây:
+- Chuẩn bị một file định dạng txt có chứa ID sinh viên và câu trả lời của họ.
+- File phải có ID của mỗi học sinh bắt đầu bằng "N", theo sau là 8 chữ số và tệp chứa chính xác 26 giá trị trên mỗi dòng (bao gồm cả ID học sinh). Dữ liệu đầu vào phải giống như ví dụ dưới đây:
 ```javascript
   N12345678,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,B,C,D,A,B
 ```
 2. **Chạy tập lệnh**:
 - Mở Notebook Jupyter `lastname_firstname_grade_the_exams.ipynb` để thực thi mã.
-- Nhập tên file lớp khi được nhắc. Ví dụ:
+- Nhập tên file khi được nhắc. Ví dụ:
 ```javascript
   Enter a class file to grade (i.e., class1 for class1.txt): class1
 ```
